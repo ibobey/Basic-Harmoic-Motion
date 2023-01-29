@@ -1,3 +1,6 @@
+#İBRAHİM TUNÇ 
+#29.01.2023
+
 #Necessary Modules
 import numpy as np
 from matplotlib import pyplot as plt
